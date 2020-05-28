@@ -1,2 +1,3 @@
-# tictactoe
-Uses Selenium to automate a game of tic tac toe
+# Selenium Tic Tac Toe
+
+Uses Selenium WebDriver to automate a game of tic tac toe
